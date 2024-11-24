@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "932790629611",
+    "project_id": "auditoriumbook-854f4",
+    "storage_bucket": "auditoriumbook-854f4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932790629611:android:b3e7401fcc08406c85faae",
+        "android_client_info": {
+          "package_name": "com.bookauditorium.bookauditorium"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfNXPUaQF9HHhxZptVkJWVUwZWLie_3y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
